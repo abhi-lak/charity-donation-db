@@ -607,7 +607,7 @@ def bloodcol():
         print("BYE BYE")
 def menu():
     print("*"*183)
-    print("\t\t\t\t\t\t\t\tTHE MENU\n")
+    print("\t\t\t\t\t\t\t\tMENU\n")
     print("*"*183)
     print("\n(1) Donator\n")
     print("(2) Reciever\n")
@@ -643,4 +643,3 @@ def login(username,password):
 username=input("Enter username : ")
 password=input("Enter password : ")
 login(username,password)
-#USER FRIENDLY
