@@ -607,7 +607,7 @@ def bloodcol():
         print("BYE BYE")
 def menu():
     print("*"*183)
-    print("\t\t\t\t\t\t\t\tMENU\n")
+    print("\t\t\t\t\t\t\t\tLA MENU\n")
     print("*"*183)
     print("\n(1) Donator\n")
     print("(2) Reciever\n")
